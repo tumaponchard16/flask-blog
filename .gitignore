@@ -1,4 +1,3 @@
 /venv
 /.idea
-/flaskblog/static/profile_pics/*.jpg
-/flaskblog/static/profile_pics/*.png
+/static/profile_pics/*
